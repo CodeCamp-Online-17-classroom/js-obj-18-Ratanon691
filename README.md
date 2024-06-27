@@ -12,3 +12,4 @@ let user = {
 
 (user.sayHi)(); // *
 ```
+Rattanon Tunwittaya
